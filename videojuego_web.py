@@ -13,7 +13,7 @@ st.title("Predicción Compra video juegos en tienda")
 
 # montar imagen
 
-st.image("juego.jpg")
+st.image("juego.jpeg")
 
 #Cargamos el modelo
 import pickle
